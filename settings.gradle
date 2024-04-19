@@ -1,1 +1,2 @@
 include ':demo', ':demo-subunits', ':demo-androidx',':autosize'
+include ':mytestapplication'
